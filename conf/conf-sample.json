@@ -1,0 +1,8 @@
+{
+    "dbhost": <database_host>,
+    "dbname": <database_database>,
+    "dbuser": <database_user>,
+    "dbpass": <database_password>,
+    "respath": <res_folder_path>,
+    "stage": <development_or_production>
+}

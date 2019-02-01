@@ -1,0 +1,7 @@
+*.DS_Store
+*.log
+*.tags
+*.pyc
+conf/conf.json
+res
+screenlog.*
