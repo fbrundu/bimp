@@ -1,7 +1,5 @@
 # BIM Service Provider - Interface layer
 
-# BIM Service Provider - Context layer
-
 This repository is part of a collection, see also:
 - BIM Service Provider - Context layer: https://github.com/fbrundu/dimc
 - District Heating Simulator - Turin version https://github.com/fbrundu/eee-trn
